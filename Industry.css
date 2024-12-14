@@ -1,0 +1,10 @@
+#INDUSTRYFURNACELOGO{
+    width:320px;
+    height:180px;
+    margin:20px
+}
+section{
+    display: grid;
+    place-items: center;
+    align-items: center;
+}
